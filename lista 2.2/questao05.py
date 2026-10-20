@@ -1,0 +1,1 @@
+print("Parabéns, você adquiriu:\n uma espada\n um escudo\n uma poção")
